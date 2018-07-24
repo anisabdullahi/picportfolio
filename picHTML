@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Portfolio</title>
+	<link rel="stylesheet" type="text/css" href="portpic.css">
+</head>
+<body>
+
+	<h1>Anis/Abdullahi</h1>
+
+	<p id="two">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin facilisis dolor auctor arcu volutpat,</p>
+
+	<p> tincidunt cursus turpis porttitor.</p> 
+
+      <p>accumsan, enim ac dignissim lacinia, sem sapien pulvinar velit, ut feugiat diam neque a orci.</p>
+
+     <p>Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+
+
+
+    <div class="one">
+	<img src="https://3edb59ed62a191f9544d-e40024003fc1e3ae1ab718a9605ee0d2.ssl.cf1.rackcdn.com/Barth_Qatar_MIA1002.jpg">
+	
+
+	<img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/museum-of-islamic-art-in-doha-qatar-paul-cowan.jpg">
+
+	<img src="https://amazon.clikpic.com/harlderb/images/FA4006_-_MIA_Front.jpg">
+</div>
+
+<div>
+	<img src="https://www.artpeoplegallery.com/wp-content/uploads/2015/12/DSC4993-680x454.jpg">
+
+	<img src="https://c1.staticflickr.com/5/4134/4883764621_4bc4707f0f_b.jpg">
+
+	<img src="https://3edb59ed62a191f9544d-e40024003fc1e3ae1ab718a9605ee0d2.ssl.cf1.rackcdn.com/Barth_Qatar_MIA4001.jpg">
+</div>
+
+<div>
+	<img src="https://www.alartemag.be/wp-content/uploads/2014/07/11.jpg">
+
+	<img src="https://render.fineartamerica.com/images/rendered/medium/canvas-print/mirror/break/images-medium/1-museum-of-islamic-art-in-doha-paul-cowan-canvas-print.jpg">
+
+	<img src="https://syrian-heritage.org/en/about-us/gallery/mu_f_01_01_01-2">
+</div>
+</body>
+</html>
