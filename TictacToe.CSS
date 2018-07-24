@@ -1,0 +1,19 @@
+p{
+	text-align: center;
+	font-size: 45px;
+	text-decoration: underline black;
+    color: red;
+	
+}
+
+
+table{
+	margin: auto;
+	font-size: 55px;
+	font-weight: 100;
+
+}
+
+td{
+	padding: 50px;
+}
